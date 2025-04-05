@@ -1,13 +1,13 @@
-# Mini Program
+# Grammar Checker
 
 ## Description
-A brief description of what your mini program does and its main features.
+A brief description of what your mini program does and its main features. This program is a grammar checker that uses LanguageTool and OpenAI to check and correct grammar.
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/mini-program.git
+   git clone https://github.com/randy-rebucas/grammar-checker.git
    ```
 
 2. Install dependencies:
